@@ -1,5 +1,5 @@
 {
-  "name": "vue-modal",
+  "name": "coder-vue-components-modal",
   "version": "1.0.0",
   "description": "Vue modal",
   "scripts": {
@@ -10,4 +10,7 @@
     "vue"
   ],
   "author": "Alexander Manukian <alikmanukian@gmail.com>",
+  "dependencies": {
+    "portal-vue": "^1.5.1"
+  }
 }
