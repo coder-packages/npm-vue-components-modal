@@ -11,6 +11,13 @@
   ],
   "author": "Alexander Manukian <alikmanukian@gmail.com>",
   "dependencies": {
-    "portal-vue": "^1.5.1"
+    "css-loader": "^0.28.0",
+    "portal-vue": "^1.5.1",
+    "vue-loader": "^13.3.0",
+    "vue-style-loader": "^3.0.1",
+    "vue-template-compiler": "^2.5.2",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
+    "vue": "^2.5.2"
   }
 }
