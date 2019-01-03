@@ -14,4 +14,4 @@
   </portal>
 </template>
 
-<style lang="scss" src="./Modal.scss"></style>
+<style lang="scss" src="./modal.scss"></style>

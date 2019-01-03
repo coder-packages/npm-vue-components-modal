@@ -15,7 +15,7 @@ import modal
 </template>
 
 <script>
-import Modal from 'node_modules/npm-vue-components-modal/src/Modal'
+import Modal from 'coder-vue-components-modal'
 export default {
   components: {
     Modal
